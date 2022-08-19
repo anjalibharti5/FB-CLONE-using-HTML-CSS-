@@ -1,8 +1,6 @@
-# FB-CLONE-using-HTML-CSS-
-
 # Welcome to FB Clone!
 
-# Example Website<img width="960" alt="image" src="https://user-images.githubusercontent.com/81773990/185697263-de3d0096-c938-476a-a549-c06d097d85f0.png">
+## Example Website<img width="960" alt="image" src="https://user-images.githubusercontent.com/81773990/185697263-de3d0096-c938-476a-a549-c06d097d85f0.png">
 
 ## Introduction
 
